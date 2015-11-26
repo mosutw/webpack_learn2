@@ -1,0 +1,21 @@
+{
+  "name": "web3",
+  "description": "",
+  "main": "./app/main.js",
+  "authors": [
+    "mosutw <luke1974@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
